@@ -1,0 +1,1 @@
+A custom Blender add-on designed to remove doubles and merge unconnected vertices in OBJ files exported from MagicaVoxel, preparing models for rigging and animation, ensuring that all vertices are properly connected and ready for smooth deformations.
